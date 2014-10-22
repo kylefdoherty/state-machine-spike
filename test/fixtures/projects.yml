@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  due_date: 2014-10-22
+  project_manager: MyString
+  details: MyString
+
+two:
+  name: MyString
+  due_date: 2014-10-22
+  project_manager: MyString
+  details: MyString
